@@ -27,10 +27,18 @@
   * Choose the right data store - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview
   * Azure compute overview - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-overview
 * Game Networking
+* Insightful Threads / Articles
   * https://news.ycombinator.com/item?id=8655435
   * https://news.ycombinator.com/item?id=8399767
-  * http://www.gabrielgambetta.com/client-server-game-architecture.html
-  * https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking
+  * https://www.reddit.com/r/gamedev/comments/1tvbe0/is_it_just_me_or_is_networking_really_hard/
+  * Fast-paced Multiplayer - http://www.gabrielgambetta.com/client-server-game-architecture.html
+  * Source Multiplayer Neetworking - https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking
+  * Quake 3 Source Code Review - http://fabiensanglard.net/quake3/index.php
+  * Unreal Networking Architecture - https://api.unrealengine.com/udk/Three/NetworkingOverview.html
+  * Unreal Networking Model - http://thad.frogley.info/w/gfg08/gfg08.pdf
+  * Short History of Game Networking Techniques - https://gafferongames.com/post/what_every_programmer_needs_to_know_about_game_networking/
+  * The ups and downs of doing online multiplayer as an indie - https://www.gamasutra.com/view/feature/217434/the_ups_and_downs_of_doing_online_.php
+  * Game Networking Techniques, Explained with Pong - http://drewblaisdell.com/writing/game-networking-techniques-explained-with-pong/
 
 #### References
 
