@@ -14,9 +14,8 @@
   * Advantages of Cloud Computing - https://www.redpixie.com/blog/advantages-of-cloud-computing
   * SaaS, PaaS, IaaS & On-presmises
   * Cloud Vendors
-    * https://cloudharmony.com/directory
-    * https://cloud.google.com/free/docs/map-aws-google-cloud-platform
-    * https://cloud.google.com/free/docs/map-azure-google-cloud-platform
+    * Public Cloud Services Comparison - http://comparecloud.in
+    * Cloud Provider Directory - https://cloudharmony.com/directory
   * Cloud Products & Services
   * Feature-by-Feature Comparisons
   * Pricing & Calculators
