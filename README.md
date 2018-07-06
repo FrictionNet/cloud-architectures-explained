@@ -1,7 +1,6 @@
-# Cloud Architectures Explained
+# Cloud Architectures For Game Developers
 
 > A community-driven introduction to modern cloud architectures
-
 
 * What is Cloud Computing
   * Cloud Computing
