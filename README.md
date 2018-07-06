@@ -13,6 +13,7 @@
   * Modern Cloud vs Traditional On-Premises
   * SaaS, PaaS, IaaS & On-presmises
   * Cloud Vendors
+    * https://cloudharmony.com/directory
   * Cloud Products & Services
   * Feature-by-Feature Comparisons
   * Pricing & Calculators
