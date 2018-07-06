@@ -11,9 +11,12 @@
   * Cloud Computing Architecture
   * Cloud Hosting vs Traditional Hosting
   * Modern Cloud vs Traditional On-Premises
+  * Advantages of Cloud Computing - https://www.redpixie.com/blog/advantages-of-cloud-computing
   * SaaS, PaaS, IaaS & On-presmises
   * Cloud Vendors
     * https://cloudharmony.com/directory
+    * https://cloud.google.com/free/docs/map-aws-google-cloud-platform
+    * https://cloud.google.com/free/docs/map-azure-google-cloud-platform
   * Cloud Products & Services
   * Feature-by-Feature Comparisons
   * Pricing & Calculators
@@ -52,7 +55,7 @@
   * https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/
   * https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/
   * https://gafferongames.com/tags/networking/
-  
+
 #### References
 
 * https://en.wikipedia.org/wiki/Cloud_computing_architecture
