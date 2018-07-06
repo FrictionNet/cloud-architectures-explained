@@ -2,6 +2,10 @@
 
 > An introduction to modern cloud architectures for game developers
 
+* Fundamentals
+  * Domain Names
+  * DNS & DNS Records
+  * Transport Protocols
 * What is Cloud Computing
   * Cloud Computing
   * Cloud Computing Architecture
@@ -14,29 +18,19 @@
   * Pricing & Calculators
 * Cloud Deployment References
   * Heroku's 12-Factor Approach
-  * Content Delivery Networks (CDN's) Best Practices
-  * Architecture Styles
-  * Cloud Design Patterns
-  * Pillars of Software Quality
-  * Design Principles
-  * Availability Checklist
-  * Choose the right data store
-  * Azure compute overview
-* Fundamentals
-  * Domain Names
-  * DNS & DNS Records
-  * Transport Protocols
- 
+  * Content Delivery Networks Best Practices - https://docs.microsoft.com/en-us/azure/architecture/best-practices/cdn
+  * Architecture Styles - https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/index
+  * Cloud Design Patterns - https://docs.microsoft.com/en-us/azure/architecture/patterns/
+  * Pillars of Software Quality - https://docs.microsoft.com/en-us/azure/architecture/guide/pillars
+  * Design Principles - https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/
+  * Availability Checklist - https://docs.microsoft.com/en-us/azure/architecture/checklist/availability
+  * Choose the right data store - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview
+  * Azure compute overview - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-overview
+* Game Networking
+  * https://news.ycombinator.com/item?id=8655435
+  * https://news.ycombinator.com/item?id=8399767
+
 #### References
 
 * https://en.wikipedia.org/wiki/Cloud_computing_architecture
 * http://www.opusinteractive.com/cloud-hosting-vs-traditional-hosting/
-* https://docs.microsoft.com/en-us/azure/architecture/best-practices/cdn
-* https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/index
-* https://docs.microsoft.com/en-us/azure/architecture/patterns/
-* https://docs.microsoft.com/en-us/azure/architecture/guide/pillars
-* https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/
-* https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
-* https://docs.microsoft.com/en-us/azure/architecture/checklist/availability
-* https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview
-* https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-overview
