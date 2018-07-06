@@ -17,7 +17,7 @@
   * Feature-by-Feature Comparisons
   * Pricing & Calculators
 * Cloud Deployment References
-  * Heroku's 12-Factor Approach
+  * Heroku's 12-Factor App - https://12factor.net
   * Content Delivery Networks Best Practices - https://docs.microsoft.com/en-us/azure/architecture/best-practices/cdn
   * Architecture Styles - https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/index
   * Cloud Design Patterns - https://docs.microsoft.com/en-us/azure/architecture/patterns/
