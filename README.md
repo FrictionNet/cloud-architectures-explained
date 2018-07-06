@@ -17,6 +17,10 @@
   * Cloud Products & Services
   * Feature-by-Feature Comparisons
   * Pricing & Calculators
+* Cloud Solutions
+  * https://cloud.google.com/solutions/
+  * https://azure.microsoft.com/en-us/solutions/
+  * https://aws.amazon.com/solutions/
 * Cloud Solutions for Gaming
   * https://cloud.google.com/solutions/gaming/
   * https://azure.microsoft.com/en-us/solutions/gaming/
