@@ -26,7 +26,6 @@
   * Availability Checklist - https://docs.microsoft.com/en-us/azure/architecture/checklist/availability
   * Choose the right data store - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview
   * Azure compute overview - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-overview
-* Game Networking
 * Insightful Threads,  Articles & Sites
   * https://news.ycombinator.com/item?id=8655435
   * https://news.ycombinator.com/item?id=8399767
