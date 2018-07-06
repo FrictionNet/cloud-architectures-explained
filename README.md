@@ -29,6 +29,8 @@
 * Game Networking
   * https://news.ycombinator.com/item?id=8655435
   * https://news.ycombinator.com/item?id=8399767
+  * http://www.gabrielgambetta.com/client-server-game-architecture.html
+  * https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking
 
 #### References
 
