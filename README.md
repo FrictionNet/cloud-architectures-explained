@@ -42,6 +42,10 @@
   * Short History of Game Networking Techniques - https://gafferongames.com/post/what_every_programmer_needs_to_know_about_game_networking/
   * The ups and downs of doing online multiplayer as an indie - https://www.gamasutra.com/view/feature/217434/the_ups_and_downs_of_doing_online_.php
   * Game Networking Techniques, Explained with Pong - http://drewblaisdell.com/writing/game-networking-techniques-explained-with-pong/
+  * https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/
+  * https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/
+  * https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/
+  * https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/
   * https://gafferongames.com
   
 #### References
