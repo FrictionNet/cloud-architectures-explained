@@ -1,6 +1,6 @@
 # Cloud Architectures For Game Developers
 
-> A community-driven introduction to modern cloud architectures
+> An introduction to modern cloud architectures for game developers
 
 * What is Cloud Computing
   * Cloud Computing
@@ -12,6 +12,8 @@
   * Cloud Products & Services
   * Feature-by-Feature Comparisons
   * Pricing & Calculators
+* Cloud Deployment References
+  * 
 * Fundamentals
   * Domain Names
   * DNS & DNS Records
