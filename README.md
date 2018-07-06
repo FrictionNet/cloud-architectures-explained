@@ -16,6 +16,10 @@
   * Cloud Products & Services
   * Feature-by-Feature Comparisons
   * Pricing & Calculators
+* Cloud Solutions for Gaming
+  * https://cloud.google.com/solutions/gaming/
+  * https://azure.microsoft.com/en-us/solutions/gaming/
+  * https://aws.amazon.com/gaming/
 * Cloud Deployment References
   * Heroku's 12-Factor App - https://12factor.net
   * Content Delivery Networks Best Practices - https://docs.microsoft.com/en-us/azure/architecture/best-practices/cdn
@@ -26,7 +30,7 @@
   * Availability Checklist - https://docs.microsoft.com/en-us/azure/architecture/checklist/availability
   * Choose the right data store - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview
   * Azure compute overview - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-overview
-* Insightful Threads,  Articles & Sites
+* Insightful Threads, Articles & Sites
   * https://news.ycombinator.com/item?id=8655435
   * https://news.ycombinator.com/item?id=8399767
   * https://www.reddit.com/r/gamedev/comments/1tvbe0/is_it_just_me_or_is_networking_really_hard/
@@ -39,6 +43,7 @@
   * The ups and downs of doing online multiplayer as an indie - https://www.gamasutra.com/view/feature/217434/the_ups_and_downs_of_doing_online_.php
   * Game Networking Techniques, Explained with Pong - http://drewblaisdell.com/writing/game-networking-techniques-explained-with-pong/
   * https://gafferongames.com
+  
 #### References
 
 * https://en.wikipedia.org/wiki/Cloud_computing_architecture
