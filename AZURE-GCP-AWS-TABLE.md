@@ -13,11 +13,19 @@
 | Compute | Serverless Functions | Azure Functions | Cloud Functions | AWS Lambda |
 | Network | Virtual Networks | Azure VNets | VPC Networks | ? |
 | Network | Load Balancer | Azure Load Balancer, Application Gateway | Cloud Load Balancing | Elastic Load Balancer |
-| Network | Dedicated Interconnect | ExpressRoute | Cloud Interconnect | Direct Connect |
+| Network | Dedicated Interconnect | ExpressRoute | Cloud Interconnect | ? |
+| Network | Peering | ? | Cloud Interconnect | Direct Connect |
 | Network | DNS | Azure DNS | Cloud DNS | Amazon Route 53 |
 | Network | CDN | Azure CDN | Cloud CDN | ? |
-| CAT | SERV | AZURE | GCP | AWS |
-| CAT | SERV | AZURE | GCP | AWS |
+| Storage | Object Storage | Azure Blob Storage | Cloud STorage Multi-regional, Cloud Storage Regional | Amazon Simple Storage Service (S3) |
+| Storage | Block Storage | Disk Storage | Compute Engine Persistent Disks | Amazon Elastic Block Store |
+| Storage | File Storage | Azure File Storage | ? | Amazon Elastic File System |
+| Storage | Reduced-availability Storage | Azure Cool Blob Storage | Cloud Storage Nearline | ? |
+| Storage | Cold Storage | ? | Cloud Storage Nearline | Amazon Glacier |
+| Storage | Archival Storage | Azure Archive Blob Storage | Cloud Storage Coldline | ? |
+| Database | RDBMS | SQL Database | Cloud SQL, Cloud Spanner | Amazon Relational Database Service (RDS) |
+| Database | NoSQL: Key-Value | Table Storage | Cloud Datastore, Cloud Bigtable | Amazon DynamoDB |
+| Database | NoSQL: Indexed | Cosmos DB | Cloud Datastore | Amazon SimpleDB |
 | CAT | SERV | AZURE | GCP | AWS |
 | CAT | SERV | AZURE | GCP | AWS |
 | CAT | SERV | AZURE | GCP | AWS |
