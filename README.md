@@ -46,7 +46,7 @@
   * https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/
   * https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/
   * https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/
-  * https://gafferongames.com
+  * https://gafferongames.com/tags/networking/
   
 #### References
 
