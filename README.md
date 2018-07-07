@@ -19,14 +19,21 @@
     * https://www.upcloud.com/blog/cloud-server-vs-vps-vs-dedicated-server/
     * https://wp-rocket.me/blog/shared-vs-vps-vs-dedicated-vs-cloud-hosting/
     * https://www.rackspace.com/library/cloud-vs-dedicated
+    * https://www.ibm.com/blogs/cloud-computing/2013/09/18/top-five-advantages-of-software-as-a-service-saas/
+    * https://www.digitalocean.com/community/questions/vps-or-dedicated-server
   * Cloud Concepts Explained
     * Cloud Vendors
     * Pricing Calculators
+    * Cloud Regions & Availability Zones
     * Images
     * Snapshots
     * HDD
     * SSD
     * https://cloud.google.com/compute/docs/regions-zones/global-regional-zonal-resources
+    * https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
+    * https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html
+    * https://cloud.google.com/compute/docs/regions-zones/
+    * https://www.ibm.com/blogs/bluemix/2018/06/expansion-availability-zones-global-regions/
   * Comparing Service Architectures
     * On-premises
     * IaaS, Infrastructure as a Service
@@ -70,6 +77,8 @@
   * https://azure.microsoft.com/en-us/solutions/architecture/
   * https://aws.amazon.com/architecture/
   * https://gcp.solutions
+  * https://medium.com/google-cloud/a-gcp-flowchart-a-day-2d57cc109401
+  * https://medium.com/@grapesfrog/more-gcp-flowcharts-for-your-delectation-36b63ebb72ce
 * Insightful Threads, Articles & Sites
   * https://news.ycombinator.com/item?id=8655435
   * https://news.ycombinator.com/item?id=8399767
