@@ -87,6 +87,9 @@
   * https://gcp.solutions
   * https://medium.com/google-cloud/a-gcp-flowchart-a-day-2d57cc109401
   * https://medium.com/@grapesfrog/more-gcp-flowcharts-for-your-delectation-36b63ebb72ce
+* Cloud Native Landscape
+  * https://github.com/cncf/landscape
+  * https://landscape.cncf.io/grouping=landscape
 * Insightful Threads, Articles & Sites
   * https://news.ycombinator.com/item?id=8655435
   * https://news.ycombinator.com/item?id=8399767
