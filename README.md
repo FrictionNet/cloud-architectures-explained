@@ -9,23 +9,45 @@
 * What is Cloud Computing
   * Cloud Computing
   * Cloud Computing Architecture
- * Comparing Cloud Hosting & Traditional Hosting
-   * Shared Hosting
-   * Virtual Private Server (VPS)
-   * Dedicated Servers
-   * Cloud Hosting
-   * On-Premises
-   * https://www.upcloud.com/blog/cloud-server-vs-vps-vs-dedicated-server/
-   * https://wp-rocket.me/blog/shared-vs-vps-vs-dedicated-vs-cloud-hosting/
-   * https://www.rackspace.com/library/cloud-vs-dedicated
+  * Comparing Cloud Hosting & Traditional Hosting
+    * Bare-metal Servers
+    * Shared Hosting
+    * Virtual Private Server (VPS)
+    * Dedicated Servers
+    * Cloud Hosting
+    * On-Premises
+    * https://www.upcloud.com/blog/cloud-server-vs-vps-vs-dedicated-server/
+    * https://wp-rocket.me/blog/shared-vs-vps-vs-dedicated-vs-cloud-hosting/
+    * https://www.rackspace.com/library/cloud-vs-dedicated
+  * Cloud Concepts Explained
+    * Cloud Vendors
+    * Pricing Calculators
+    * Images
+    * Snapshots
+    * HDD
+    * SSD
+    * https://cloud.google.com/compute/docs/regions-zones/global-regional-zonal-resources
+  * Comparing Service Architectures
+    * On-premises
+    * IaaS, Infrastructure as a Service
+    * PaaS, Platform as a Service
+    * SaaS, Software as a Service
+    * CaaS, Containers as a Service
+    * DBaaS, Database as a Service
+    * FaaS, Functions as a Service / Serverless
+    * MaaS, Monitoring as a Service
+    * MBaaS, Mobile Backend as a Service
+    * https://searchcloudcomputing.techtarget.com/definition/XaaS-anything-as-a-service
+    * https://dzone.com/articles/iaas-vs-caas-vs-paas-vs-faas-choosing-the-right-platform
+    * https://dzone.com/articles/an-introduction-to-the-types-of-cloud-computing?fromrel=true
+    * https://dzone.com/articles/iaas-caas-paas-faas-how-do-you-choose?fromrel=true
+    * https://dzone.com/articles/cloud-development-and-deployment-solutions-directo?fromrel=true
+    * https://en.wikipedia.org/wiki/On-premises_software
   * Advantages of Cloud Computing - https://www.redpixie.com/blog/advantages-of-cloud-computing
-  * SaaS, PaaS, IaaS & On-presmises
+  * SaaS, PaaS, IaaS & On-premises
   * Cloud Vendors
     * Public Cloud Services Comparison - http://comparecloud.in
     * Cloud Provider Directory - https://cloudharmony.com/directory
-  * Cloud Products & Services
-  * Feature-by-Feature Comparisons
-  * Pricing & Calculators
 * Cloud Solutions
   * https://cloud.google.com/solutions/
   * https://azure.microsoft.com/en-us/solutions/
