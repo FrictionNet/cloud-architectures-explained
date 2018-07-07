@@ -21,6 +21,9 @@
     * https://www.rackspace.com/library/cloud-vs-dedicated
     * https://www.ibm.com/blogs/cloud-computing/2013/09/18/top-five-advantages-of-software-as-a-service-saas/
     * https://www.digitalocean.com/community/questions/vps-or-dedicated-server
+    * VM Platforms
+    * Container build platforms
+    * COntainer deployment platforms
   * Cloud Concepts Explained
     * Cloud Vendors
     * Pricing Calculators
@@ -63,6 +66,11 @@
   * https://cloud.google.com/solutions/gaming/
   * https://azure.microsoft.com/en-us/solutions/gaming/
   * https://aws.amazon.com/gaming/
+* Cloud Marketplaces
+  * https://aws.amazon.com/marketplace
+  * https://azuremarketplace.microsoft.com/en-us/
+  * https://cloud.google.com/launcher/
+  * https://bitnami.com/stacks (downsides here: https://serverpilot.io/community/articles/bitnami-alternative.html)
 * Cloud Deployment References
   * Heroku's 12-Factor App - https://12factor.net
   * Content Delivery Networks Best Practices - https://docs.microsoft.com/en-us/azure/architecture/best-practices/cdn
