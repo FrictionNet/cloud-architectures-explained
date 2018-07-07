@@ -1,10 +1,10 @@
-| ~ | Microsoft Azure | Google Cloud Platform | Amazon Web Services |
-| ---: | :---: | :---: | :---: |
-| Regions & Zones | [LINK](https://azure.microsoft.com/en-us/global-infrastructure/regions/) | [LINK](https://cloud.google.com/about/locations/) | [LINK](https://aws.amazon.com/about-aws/global-infrastructure/) |
-| Products & Services | [LINK](https://azure.microsoft.com/en-us/services/) | [LINK](https://cloud.google.com/products/) | [LINK](https://aws.amazon.com/products/) |
-| General Pricing | [LINK](https://azure.microsoft.com/en-gb/pricing/) | [LINK](https://cloud.google.com/pricing/) | [LINK](https://aws.amazon.com/pricing/) |
-| Free Tier | [LINK](https://azure.microsoft.com/en-gb/pricing/) | [LINK](https://console.cloud.google.com/freetrial) | [LINK](https://aws.amazon.com/free/) |
-| Calculator | [LINK](https://azure.microsoft.com/en-gb/pricing/calculator/) | [LINK](https://cloud.google.com/products/calculator/) | [LINK](http://calculator.s3.amazonaws.com/index.html) |
+| ~ | Microsoft Azure | Google Cloud Platform | Amazon Web Services | IBM |
+| ---: | :---: | :---: | :---: | :---: |
+| Regions & Zones | [LINK](https://azure.microsoft.com/en-us/global-infrastructure/regions/) | [LINK](https://cloud.google.com/about/locations/) | [LINK](https://aws.amazon.com/about-aws/global-infrastructure/) | [LINK](https://www.ibm.com/cloud/data-centers/) |
+| Products & Services | [LINK](https://azure.microsoft.com/en-us/services/) | [LINK](https://cloud.google.com/products/) | [LINK](https://aws.amazon.com/products/) | [LINK](https://www.ibm.com/cloud/products/) |
+| General Pricing | [LINK](https://azure.microsoft.com/en-gb/pricing/) | [LINK](https://cloud.google.com/pricing/) | [LINK](https://aws.amazon.com/pricing/) | [LINK](https://www.ibm.com/cloud/pricing/) |
+| Free Tier | [LINK](https://azure.microsoft.com/en-gb/pricing/) | [LINK](https://console.cloud.google.com/freetrial) | [LINK](https://aws.amazon.com/free/) | [LINK](https://www.ibm.com/cloud/pricing) |
+| Calculator | [LINK](https://azure.microsoft.com/en-gb/pricing/calculator/) | [LINK](https://cloud.google.com/products/calculator/) | [LINK](http://calculator.s3.amazonaws.com/index.html) | [LINK](https://console.bluemix.net/pricing/platform/dev_ops) |
 
 | Category | Service | Microsoft Azure | Google Cloud Platform | Amazon Web Services |
 | :---: | :---: | :---: | :---: | :---: |
