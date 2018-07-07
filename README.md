@@ -6,15 +6,18 @@
   * Domain Names
   * DNS & DNS Records
   * Transport Protocols
-* Traditional Hosting
-  * Shared Hosting
-  * Virtual Private Server (VPS)
-  * Dedicated Servers
 * What is Cloud Computing
   * Cloud Computing
   * Cloud Computing Architecture
-  * Cloud Hosting vs Traditional Hosting
-  * Modern Cloud vs Traditional On-Premises
+ * Comparing Cloud Hosting & Traditional Hosting
+   * Shared Hosting
+   * Virtual Private Server (VPS)
+   * Dedicated Servers
+   * Cloud Hosting
+   * On-Premises
+   * https://www.upcloud.com/blog/cloud-server-vs-vps-vs-dedicated-server/
+   * https://wp-rocket.me/blog/shared-vs-vps-vs-dedicated-vs-cloud-hosting/
+   * https://www.rackspace.com/library/cloud-vs-dedicated
   * Advantages of Cloud Computing - https://www.redpixie.com/blog/advantages-of-cloud-computing
   * SaaS, PaaS, IaaS & On-presmises
   * Cloud Vendors
