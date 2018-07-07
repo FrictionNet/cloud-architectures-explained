@@ -6,6 +6,10 @@
   * Domain Names
   * DNS & DNS Records
   * Transport Protocols
+* Traditional Hosting
+  * Shared Hosting
+  * Virtual Private Server (VPS)
+  * Dedicated Servers
 * What is Cloud Computing
   * Cloud Computing
   * Cloud Computing Architecture
