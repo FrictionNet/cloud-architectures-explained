@@ -36,9 +36,10 @@
     * https://www.ibm.com/blogs/bluemix/2018/06/expansion-availability-zones-global-regions/
     * VM Platforms
     * Container build platforms
-    * COntainer deployment platforms
+    * Container deployment platforms
     * Containers - https://jvns.ca/blog/2016/10/10/what-even-is-a-container/
     * Container Runtimes - https://www.ianlewis.org/en/container-runtimes-part-1-introduction-container-r
+    * Microservices - http://microservices.io/
   * Comparing Service Architectures
     * On-premises
     * IaaS, Infrastructure as a Service
@@ -109,6 +110,7 @@
   * https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/
   * https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/
   * https://gafferongames.com/tags/networking/
+  * https://eng.uber.com/trip-data-squeeze/
 
 #### References
 
