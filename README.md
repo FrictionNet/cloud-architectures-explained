@@ -118,6 +118,7 @@
   * https://forhonor.ubisoft.com/game/en-us/news-community/152-321584-16/input-delay-in-for-honor
   * https://gafferongames.com/post/udp_vs_tcp/
   * https://www.isoc.org/briefings/017/
+  * https://news.ycombinator.com/item?id=16576133
   
 #### References
 
