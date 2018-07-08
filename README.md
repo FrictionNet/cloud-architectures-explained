@@ -112,7 +112,11 @@
   * https://gafferongames.com/tags/networking/
   * https://eng.uber.com/trip-data-squeeze/
   * https://www.slideshare.net/AmazonWebServices/gam301migrating-the-league-of-legends-platform-into-aws-cloudpdf
-
+  * https://www.compoundtheory.com/scaling-dedicated-game-servers-with-kubernetes-part-1-containerising-and-deploying/
+  * https://rainbow6.ubisoft.com/siege/en-us/news/152-303559-16/dev-blog-ping-abuse-peekers-advantage-and-next-steps
+  * https://cloudplatform.googleblog.com/2016/09/bringing-Pokemon-GO-to-life-on-Google-Cloud.html
+  * https://forhonor.ubisoft.com/game/en-us/news-community/152-321584-16/input-delay-in-for-honor
+  
 #### References
 
 * https://en.wikipedia.org/wiki/Cloud_computing_architecture
