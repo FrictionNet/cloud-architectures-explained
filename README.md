@@ -132,6 +132,7 @@
   * https://www.gamasutra.com/view/feature/132563/infinite_space_an_argument_for_.php?page=3
   * https://www.gamasutra.com/view/feature/132563/infinite_space_an_argument_for_.php?page=4
   * https://www.gamasutra.com/view/feature/132563/infinite_space_an_argument_for_.php?page=5
+  * http://highscalability.com/blog/category/example
 
 #### References
 
