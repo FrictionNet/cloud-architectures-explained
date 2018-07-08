@@ -120,7 +120,19 @@
   * https://www.isoc.org/briefings/017/
   * https://news.ycombinator.com/item?id=16576133
   * https://cloudplatform.googleblog.com/2018/03/introducing-Agones-open-source-multiplayer-dedicated-game-server-hosting-built-on-Kubernetes.html
-  
+  * https://www.eveonline.com/article/building-a-balanced-universe
+  * https://en.wikipedia.org/wiki/Dead_reckoning
+  * https://en.wikipedia.org/wiki/CAP_theorem
+  * http://blog.thislongrun.com/2015/03/the-confusing-cap-and-acid-wording.html
+  * https://mongodbforabsolutebeginners.blogspot.com/2016/06/acid-and-cap-theroems.html
+  * https://www.reddit.com/r/gamedev/comments/1w746u/interested_in_mmo_server_architecture/
+  * http://www.datacenterknowledge.com/archives/2009/11/25/wows-back-end-10-data-centers-75000-cores
+  * https://www.gamasutra.com/view/feature/4175/infinite_space_an_argument_for_.php
+  * https://www.gamasutra.com/view/feature/132563/infinite_space_an_argument_for_.php?page=2
+  * https://www.gamasutra.com/view/feature/132563/infinite_space_an_argument_for_.php?page=3
+  * https://www.gamasutra.com/view/feature/132563/infinite_space_an_argument_for_.php?page=4
+  * https://www.gamasutra.com/view/feature/132563/infinite_space_an_argument_for_.php?page=5
+
 #### References
 
 * https://en.wikipedia.org/wiki/Cloud_computing_architecture
