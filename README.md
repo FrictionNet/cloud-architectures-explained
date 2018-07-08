@@ -116,6 +116,8 @@
   * https://rainbow6.ubisoft.com/siege/en-us/news/152-303559-16/dev-blog-ping-abuse-peekers-advantage-and-next-steps
   * https://cloudplatform.googleblog.com/2016/09/bringing-Pokemon-GO-to-life-on-Google-Cloud.html
   * https://forhonor.ubisoft.com/game/en-us/news-community/152-321584-16/input-delay-in-for-honor
+  * https://gafferongames.com/post/udp_vs_tcp/
+  * https://www.isoc.org/briefings/017/
   
 #### References
 
