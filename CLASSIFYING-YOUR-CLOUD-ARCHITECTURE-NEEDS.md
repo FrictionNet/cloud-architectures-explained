@@ -24,3 +24,7 @@
 #### Device Platform Needs
 
 * Desktop / Mobile / Console
+
+## References
+
+* https://www.gamasutra.com/view/feature/132415/examining_game_pace_how_.php=?print=1
