@@ -23,7 +23,7 @@
 
 #### Device Platform Needs
 
-* Desktop / Mobile / Console
+* Desktop / Web / Mobile / Console
 
 ## References
 
