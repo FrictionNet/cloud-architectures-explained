@@ -119,6 +119,7 @@
   * https://gafferongames.com/post/udp_vs_tcp/
   * https://www.isoc.org/briefings/017/
   * https://news.ycombinator.com/item?id=16576133
+  * https://cloudplatform.googleblog.com/2018/03/introducing-Agones-open-source-multiplayer-dedicated-game-server-hosting-built-on-Kubernetes.html
   
 #### References
 
