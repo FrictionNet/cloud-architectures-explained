@@ -21,9 +21,6 @@
     * https://www.rackspace.com/library/cloud-vs-dedicated
     * https://www.ibm.com/blogs/cloud-computing/2013/09/18/top-five-advantages-of-software-as-a-service-saas/
     * https://www.digitalocean.com/community/questions/vps-or-dedicated-server
-    * VM Platforms
-    * Container build platforms
-    * COntainer deployment platforms
   * Cloud Concepts Explained
     * Cloud Vendors
     * Pricing Calculators
@@ -37,6 +34,9 @@
     * https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html
     * https://cloud.google.com/compute/docs/regions-zones/
     * https://www.ibm.com/blogs/bluemix/2018/06/expansion-availability-zones-global-regions/
+    * VM Platforms
+    * Container build platforms
+    * COntainer deployment platforms
     * Containers - https://jvns.ca/blog/2016/10/10/what-even-is-a-container/
     * Container Runtimes - https://www.ianlewis.org/en/container-runtimes-part-1-introduction-container-r
   * Comparing Service Architectures
