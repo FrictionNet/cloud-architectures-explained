@@ -111,6 +111,7 @@
   * https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/
   * https://gafferongames.com/tags/networking/
   * https://eng.uber.com/trip-data-squeeze/
+  * https://www.slideshare.net/AmazonWebServices/gam301migrating-the-league-of-legends-platform-into-aws-cloudpdf
 
 #### References
 
