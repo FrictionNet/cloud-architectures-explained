@@ -7,7 +7,7 @@
 * Multiplayer Turn-based Games
   * Ie. Table-top Games
 * Multiplayer Real-time Games
-  * Ie. RTS (Real-time Strategy) Games, FPS (First-person Shooter) Games
+  * Ie. RTS (Real-time Strategy) Games, FPS (First-person Shooter) Games, MMO (Massively Multiplayer Online) Games
 
 #### Common Needs
 
