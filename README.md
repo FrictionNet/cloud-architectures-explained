@@ -2,6 +2,23 @@
 
 > An introduction to modern cloud architectures for game developers
 
+---
+
+## Table of Contents
+
+* Part 1: Cloud Fundamentals
+  * What is Cloud Computing
+  * Comparing Cloud Hosting & Traditional Hosting
+  * Comparing Cloud Computing Architectures
+  * Cloud Concepts Explained
+  * Modern Cloud Landscape
+* Part 2: Cloud Deployment Best Practices
+* Part 3: Cloud Gaming Case Studies
+* Part 4: Step-by-step Cloud Deployment Examples
+* Part 5: Insightful Threads, Articles & Sites
+
+---
+
 * Fundamentals
   * Domain Names
   * DNS & DNS Records
