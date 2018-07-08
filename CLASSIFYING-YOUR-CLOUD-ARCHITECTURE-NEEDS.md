@@ -9,6 +9,11 @@
 * Multiplayer Real-time Games
   * Ie. RTS (Real-time Strategy) Games, FPS (First-person Shooter) Games, TPS (Third-person Shooter) Games, MMO (Massively Multiplayer Online) Games
 
+#### Packets Sent & Received
+
+* Delivery-critical?
+* Time-critical?
+
 #### Common Needs
 
 * Web App / Web Platform Front-end
