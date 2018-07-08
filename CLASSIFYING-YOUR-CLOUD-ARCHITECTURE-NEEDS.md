@@ -12,6 +12,9 @@
 #### Common Needs
 
 * Web App / Web Platform Front-end
+* User Accounts
+* Marketplaces
+* Match-making
 * Update / Patch Releases
 
 #### Geographical Market Needs
