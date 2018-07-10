@@ -57,10 +57,6 @@
 
 ---
 
-
-
-
-
 #### Native Application Deployment
 
 * Stack:
@@ -70,33 +66,50 @@
   * Physical Hardware
 * Summary:
   * All apps share the same environment
+* Challenges:
+  * Conflicting application dependencies
 
 #### Virtualized Application Deployment
 
-* Stack:
+* Example Local Stack:
   * Application
   * Application Dependencies
-  * Guest OS
-  * Virtualization Layer
+  * Virtual Machine OS
+  * VMWare Virtualization Layer
+  * Host Operating System
+  * Physical Hardware
+* Example Cloud Stack:
+  * Application
+  * Application Dependencies
+  * Virtual Machine OS
+  * Azure / AWS / GCP Virtualization Layer
   * Physical Hardware
 * Summary:
   * All apps have their own environment
-  * Guest VM's can communicate with each other, upon configuration
-  * Guest VM's can join networks, upon configuration
+  * VM's can join networks & communicate with each other
+* Challenges:
+  * Top-heavy, wasteful & expensive since each app requires its own OS
 
 #### Containerized Application Deployment
 
-* Stack:
+* Example Local Stack:
   * Application
   * Application Dependencies
-  * Containerization Layer
-  * Host Operating System OR Virtualization Layer
+  * Docker Containerization Layer
+  * Host Operating System
+  * Physical Hardware
+* Example Cloud Stack:
+  * Application
+  * Application Dependencies
+  * Docker Containerization Layer
+  * Virtual Machine OS
+  * Azure / AWS / GCP Virtualization Layer
   * Physical Hardware
 * Summary:
   * All apps have their own environment
-  * Containers can communicate with each other, upon configuration
-  * Containers can join networks, upon configuration
-  * Containers can expose services to Host OS, upon configuration
+  * Containers can join networks & communicate with each other
+* Challenges:
+  * Nothing much, aside from having to learn new stuff.
 
 ---
 
