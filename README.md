@@ -14,8 +14,89 @@
   * Modern Cloud Landscape
 * Part 2: Cloud Deployment Best Practices
 * Part 3: Cloud Gaming Case Studies
-* Part 4: Step-by-step Cloud Deployment Examples
+* Part 4: Cloud Deployment Patterns & Examples
 * Part 5: Insightful Threads, Articles & Sites
+
+---
+
+* Terms
+  * GSS - Game Server Script
+  * GCS - Game Client Script
+  * VM - Virtual Machine
+  * VN - Virtual Network
+  * IP - IP Address
+  * LB - Load Balancer
+  * DLB - DNS Load Balancer
+  * DB - Database
+  * OS - Operating System
+* Cloud Deployment Patterns & Examples
+  * Network Models
+    * Client-Server
+    * Peer-to-Peer
+  * Deployment Locations
+    * Hosts
+    * Virtual Machines
+    * Containers
+  * Deployment Models
+    * Monolithic
+    * Networked Services
+    * Containerized Services
+  * Server deployment
+    * Server application
+      * 
+      * Web Application
+    * Server database
+  * Monolithic
+    * Server application
+    * Single-host or single-vm
+  * single-host
+  * single-vm, monolithic
+  * multiple-host, networked
+  * single-host, containerized
+  * multiple-host, containerized
+
+---
+
+
+
+
+
+#### Native Application Deployment
+
+* Stack:
+  * Application
+  * Application Dependencies
+  * Host Operating System
+  * Physical Hardware
+* Summary:
+  * All apps share the same environment
+
+#### Virtualized Application Deployment
+
+* Stack:
+  * Application
+  * Application Dependencies
+  * Guest OS
+  * Virtualization Layer
+  * Physical Hardware
+* Summary:
+  * All apps have their own environment
+  * Guest VM's can communicate with each other, upon configuration
+  * Guest VM's can join networks, upon configuration
+
+#### Containerized Application Deployment
+
+* Stack:
+  * Application
+  * Application Dependencies
+  * Containerization Layer
+  * Host Operating System OR Virtualization Layer
+  * Physical Hardware
+* Summary:
+  * All apps have their own environment
+  * Containers can communicate with each other, upon configuration
+  * Containers can join networks, upon configuration
+  * Containers can expose services to Host OS, upon configuration
 
 ---
 
