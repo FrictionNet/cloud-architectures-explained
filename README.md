@@ -25,10 +25,11 @@
   * VM - Virtual Machine
   * VN - Virtual Network
   * IP - IP Address
-  * LB - Load Balancer
+  * LB - Load Balancer - https://en.wikipedia.org/wiki/Load_balancing_(computing)
   * DLB - DNS Load Balancer
   * DB - Database
   * OS - Operating System
+  * Autoscaling - https://en.wikipedia.org/wiki/Autoscaling
 * Cloud Deployment Patterns & Examples
   * Network Models
     * Client-Server
